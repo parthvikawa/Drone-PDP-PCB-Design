@@ -31,5 +31,7 @@ Acknowledgments
 This design was created using Proteus software, and the author would like to acknowledge the support of Labcenter Electronics and the open-source hardware community.
 
 Email: mailto:parthvikawa467@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/parthvi-kawa-007bb0302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-GitHub: (link unavailable)
+
+GitHub: https://github.com/parthvikawa
